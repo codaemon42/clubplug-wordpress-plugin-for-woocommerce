@@ -1,0 +1,1 @@
+# clubplug-wordpress-plugin-for-woocommerce
